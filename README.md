@@ -26,7 +26,7 @@ I work on **computer vision and applied ML**, backed by strong **C++ and DSA fun
 
 - **Currently working on:** a pothole detection CV project, a DSA progress dashboard, and a RAG-based software engineering project
 - **Open to collaborate on:** Open Source + Computer Vision/ML projects + RAG-based applications
-- **Exploring:** Flask, SQLite, and ☁️ Cloud Computing (AWS)
+- **Exploring:**\ ☁️ Cloud Computing (AWS)
 - **Fun fact:** I'd rather fix my own broken code than get handed the fix
 
 ---
