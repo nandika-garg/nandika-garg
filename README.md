@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nandika Garg</h1>
+<h1 align="center">‧₊˚ ☁️⋅♡ Hi, I'm Nandika Garg 𐙚⋆°🦢｡⋆♡</h1>
 
 <h3 align="center">✧ ⋆ one skill.push() at a time ⋆ ✧</h3>
 
@@ -19,15 +19,14 @@
 
 ---
 
-## 👾 About Me
+## 🧸 About Me
 
-I'm a **Computer Science (AI/ML)** undergraduate, currently in my **3rd year (5th semester)**, gearing up for placement season.
-I work on **computer vision and applied ML**, backed by strong **C++ and DSA fundamentals**, and I'm expanding into **full-stack web development**.
+I'm a **Computer Science** undergraduate, currently in my **3rd year (5th semester)**, gearing up for placement season.
+I work on **computer vision and applied ML**, backed by strong **C++ and DSA fundamentals**, and I'm expanding into **full-stack development and cloud computing**.
 
 - **Currently working on:** a pothole detection CV project, a DSA progress dashboard, and a RAG-based software engineering project
 - **Open to collaborate on:** Open Source + Computer Vision/ML projects + RAG-based applications
-- **Grinding daily:** DSA in C++ — graphs, sliding window, monotonic stack, backtracking — for placement prep
-- **Also exploring:** Flask & full-stack web development, plus cloud computing fundamentals
+- **Exploring:** Flask, SQLite, and ☁️ Cloud Computing (AWS)
 - **Fun fact:** I'd rather fix my own broken code than get handed the fix
 
 ---
@@ -36,11 +35,12 @@ I work on **computer vision and applied ML**, backed by strong **C++ and DSA fun
 
 | Category | Tech Stack |
 |---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **☁️ Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 | **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-| **Currently Learning** | ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 ---
 
