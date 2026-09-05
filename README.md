@@ -1,12 +1,8 @@
 <img src="https://github.com/nandika-garg/nandika-garg/blob/main/tenor.gif" width="250" align="right"/>
-<div align="center">
-  <p style="font-size: 32px; font-weight: bold;">
-    ‧₊˚ ☁️⋅♡ Hi, I'm Nandika Garg 𐙚⋆°🦢｡⋆♡
-  </p>
-</div>
+
+<h1 align="center">‧₊˚ ☁️⋅♡ Hi, I'm Nandika Garg 𐙚⋆°🦢｡⋆♡</h1>
 
 <h3 align="center">✧ ⋆ one skill.push() at a time ⋆ ✧</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nandikagarg/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,6 +18,7 @@
   </a>
 </p>
 
+---
 
 ## 🧸 About Me
 
