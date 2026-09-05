@@ -3,6 +3,7 @@
 <h1 align="center">‧₊˚ ☁️⋅♡ Hi, I'm Nandika Garg 𐙚⋆°🦢｡⋆♡</h1>
 
 <h3 align="center">✧ ⋆ one skill.push() at a time ⋆ ✧</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nandikagarg/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
