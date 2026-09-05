@@ -1,6 +1,8 @@
 <img src="https://github.com/nandika-garg/nandika-garg/blob/main/tenor.gif" width="250" align="right"/>
 <div align="center">
-  <big><big><strong>‧₊˚ ☁️⋅♡ Hi, I'm Nandika Garg 𐙚⋆°🦢｡⋆♡</strong></big></big>
+  <p style="font-size: 32px; font-weight: bold;">
+    ‧₊˚ ☁️⋅♡ Hi, I'm Nandika Garg 𐙚⋆°🦢｡⋆♡
+  </p>
 </div>
 
 <h3 align="center">✧ ⋆ one skill.push() at a time ⋆ ✧</h3>
