@@ -46,5 +46,5 @@ I work on **computer vision and applied ML**, backed by strong **C++ and DSA fun
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandika-garg&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandika-garg&show_icons=true&hide_border=false&bg_color=FFF0F6&title_color=E75480&icon_color=FF69B4&text_color=8B3A62&ring_color=FF69B4&border_color=FFC0D9" />
 </p>
